@@ -1,6 +1,1 @@
-README.txt​
-
-Nishat Chowdhury ntc2115
-
-(In progress)
-
+ai sudoku board solver using backtracking algorithm implemented with minimum value heuristic and forward checking
